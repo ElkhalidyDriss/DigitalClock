@@ -24,5 +24,6 @@ The software part of the project is designed to provide a functional digital wat
 
 A demo video showcasing the chronometer functionality is available below:
 
-[![Chronometer Demo](./Docs/chronometer.mp4)](https://link-to-your-demo-video.com)
+[Chronometer Demo Video](./Docs/chronometer.mp4)
+
 
